@@ -33,33 +33,3 @@ time.sleep(60)
 
 # Close the browser window when done
 driver.quit()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
